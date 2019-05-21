@@ -1,0 +1,14 @@
+C:\Users\seshu.kumar\fulfillment\bin\Debug\netcoreapp2.2\fulfillment.deps.json
+C:\Users\seshu.kumar\fulfillment\bin\Debug\netcoreapp2.2\fulfillment.runtimeconfig.json
+C:\Users\seshu.kumar\fulfillment\bin\Debug\netcoreapp2.2\fulfillment.runtimeconfig.dev.json
+C:\Users\seshu.kumar\fulfillment\bin\Debug\netcoreapp2.2\fulfillment.dll
+C:\Users\seshu.kumar\fulfillment\bin\Debug\netcoreapp2.2\fulfillment.pdb
+C:\Users\seshu.kumar\fulfillment\obj\Debug\netcoreapp2.2\fulfillment.csprojAssemblyReference.cache
+C:\Users\seshu.kumar\fulfillment\obj\Debug\netcoreapp2.2\fulfillment.csproj.CoreCompileInputs.cache
+C:\Users\seshu.kumar\fulfillment\obj\Debug\netcoreapp2.2\fulfillment.RazorAssemblyInfo.cache
+C:\Users\seshu.kumar\fulfillment\obj\Debug\netcoreapp2.2\fulfillment.RazorAssemblyInfo.cs
+C:\Users\seshu.kumar\fulfillment\obj\Debug\netcoreapp2.2\fulfillment.AssemblyInfoInputs.cache
+C:\Users\seshu.kumar\fulfillment\obj\Debug\netcoreapp2.2\fulfillment.AssemblyInfo.cs
+C:\Users\seshu.kumar\fulfillment\obj\Debug\netcoreapp2.2\fulfillment.RazorTargetAssemblyInfo.cache
+C:\Users\seshu.kumar\fulfillment\obj\Debug\netcoreapp2.2\fulfillment.dll
+C:\Users\seshu.kumar\fulfillment\obj\Debug\netcoreapp2.2\fulfillment.pdb
